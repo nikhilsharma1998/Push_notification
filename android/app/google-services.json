@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "688494126520",
+    "project_id": "findsonaweb",
+    "storage_bucket": "findsonaweb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688494126520:android:be7fe721a531cacdf5db4d",
+        "android_client_info": {
+          "package_name": "com.example.push_notification_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688494126520-vjneetskeop3vflcm9kigunuliln1cd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.push_notification_project",
+            "certificate_hash": "3a4209b3b82057c8e60032713360676ea8332607"
+          }
+        },
+        {
+          "client_id": "688494126520-t66e27ba21lovs3n7msv00ieh5g3pvgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRM0ZqkcCj-uQqVnSd3Udn5U693AT67lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688494126520-t66e27ba21lovs3n7msv00ieh5g3pvgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
